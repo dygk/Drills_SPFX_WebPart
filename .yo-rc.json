@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "drills-spfx-web-part",
+    "libraryId": "0db4f988-c132-4bac-ac97-c9ff313dff9d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "drills-spfx-web-part",
+    "solutionShortDescription": "drills-spfx-web-part description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

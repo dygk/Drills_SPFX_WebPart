@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "drills-spfx-web-part-client-side-solution",
+    "id": "0db4f988-c132-4bac-ac97-c9ff313dff9d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "drills-spfx-web-part description"
+      },
+      "longDescription": {
+        "default": "drills-spfx-web-part description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "drills-spfx-web-part Feature",
+        "description": "The feature that activates elements of the drills-spfx-web-part solution.",
+        "id": "6c40ff4b-a05e-49d6-83d6-f1a77e1b0c8f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/drills-spfx-web-part.sppkg"
+  }
+}
